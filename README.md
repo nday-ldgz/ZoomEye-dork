@@ -20,3 +20,13 @@ https://www.zoomeye.org/searchResult?q=app%3A%22VMware_vCenter%22
 最近一年数据：2344
 
 添加时间2021-9-22
+
+[ZoomEye推荐搜索]
+CVE-2021-31605，OpenVPN Monitor 1.1.3 远程命令执行
+ZoomEye dork搜索app:"OpenVPN Status Monitor"
+输入CVE编号：CVE-2021-31605也可以关联出ZoomEye dork
+https://www.zoomeye.org/searchResult?q=app%3A%22OpenVPN%20Status%20Monitor%22
+影响国家地区Top10:美国（13）、德国（10）、新加坡（9）、中国（3）、英国（2）、印度（2）、荷兰（2）、俄罗斯（2）、阿拉伯联合酋长国（1）、保加利亚（1）
+最近一年数据：27
+
+添加时间2021-9-27
